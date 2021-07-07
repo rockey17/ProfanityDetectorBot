@@ -49,7 +49,7 @@ async def start_msg(event):
                 )
             ],
             [
-                Button.url("📥 Channel", url="https://t.me/BotzHub"),
+                Button.url("📥 Channel", url="https://t.me/conespoxs"),
                 Button.url(
                     "Package 📦", url="https://pypi.org/project/ProfanityDetector/"
                 ),
@@ -95,7 +95,7 @@ async def start_msg(event):
                 )
             ],
             [
-                Button.url("📥 Channel", url="https://t.me/BotzHub"),
+                Button.url("📥 Channel", url="https://t.me/conespoxs"),
                 Button.url(
                     "Package 📦", url="https://pypi.org/project/ProfanityDetector/"
                 ),
